@@ -1,0 +1,87 @@
+{
+	"title": {
+		"dashboard": "Dashboard"
+	},
+	"locale": {
+		"vi": "Vietnamese",
+		"en": "English"
+	},
+	"form": {
+		"reset": "Đặt lại",
+		"save": "Lưu",
+		"update": "Cập nhật",
+		"confirm": "Xác nhận",
+		"cancel": "Hủy",
+		"exit": "Thoát",
+		"next": "Tiếp theo",
+		"prev": "Trước đó",
+		"add": "thêm",
+		"edit": "sửa",
+		"delete": "xóa",
+		"all": "Tất cả",
+		"success": "Thành công",
+		"fail": "Thất bại",
+		"navigate": "Chuyển hướng",
+		"missing_field": "Hãy nhập đầy đủ thông tin trước khi chuyển sang bước tiếp theo"
+	},
+	"api": {
+		"get": {
+			"failed": "Get data {data} failed. Please try again!"
+		},
+		"post": {
+			"failed": "Post data {data} failed. Please try again!"
+		},
+		"update": {
+			"failed": "Update data {data} failed. Please try again!",
+			"success": "Update data {data} success!"
+		},
+		"create": {
+			"failed": "Create data {data} failed. Please try again!",
+			"success": "Create data {data} success!"
+		},
+		"delete": {
+			"failed": "Delete data {data} failed. Please try again!",
+			"success": "Delete data {data} success!"
+		},
+		"upload": {
+			"failed": "Upload file data {data} failed. Please try again!",
+			"success": "Upload file data {data} success!"
+		},
+		"import": {
+			"failed": "Import file data {data} failed. Please try again!",
+			"success": "Import file data {data} success!"
+		},
+		"export": {
+			"failed": "Export file data {data} failed. Please try again!",
+			"success": "Export file data {data} success!"
+		}
+	},
+	"sidebar": {
+		"dashboard": "Dashboard",
+		"operation": "Operation",
+		"history": "History",
+		"more": "More",
+		"customers": "Customer list",
+		"send_manual": "Send manual",
+		"campaigns": "Campaign list",
+		"sending_history": "Sending history",
+		"user_history": "User history",
+		"statistics": "Statistics",
+		"setting": "Setting",
+		"collapse": "Collapse",
+		"expand": "Expand",
+		"language": "Language",
+		"appearance": "Appearance",
+		"connection": "Connection",
+		"script": "Script",
+		"brand_template": "Brand Name & Template"
+	},
+	"profile": {
+		"account_info": "Account info",
+		"logout": "Logout"
+	},
+	"input": {
+		"placeholder": "Enter {data}..."
+	},
+	"keyword": "Keyword"
+}

@@ -1,0 +1,15 @@
+/package
+
+# Ignore artifacts:
+build
+.next
+node_modules
+coverage
+
+# Ignore other files:
+yarn.lock
+
+# Ignore environment files:
+.env
+.env.*
+!.env.example

@@ -1,0 +1,98 @@
+{
+	"title": {
+		"dashboard": "Trang chủ"
+	},
+	"locale": {
+		"vi": "Tiếng Việt",
+		"en": "English"
+	},
+	"form": {
+		"reset": "Đặt lại",
+		"save": "Lưu",
+		"update": "Cập nhật",
+		"confirm": "Xác nhận",
+		"cancel": "Hủy",
+		"exit": "Thoát",
+		"next": "Tiếp theo",
+		"prev": "Trước đó",
+		"add": "thêm",
+		"edit": "sửa",
+		"delete": "xóa",
+		"all": "Tất cả",
+		"success": "Thành công",
+		"fail": "Thất bại",
+		"navigate": "Chuyển hướng",
+		"missing_field": "Hãy nhập đầy đủ thông tin trước khi chuyển sang bước tiếp theo"
+	},
+	"common_data": {
+		"lead": "Khách hàng",
+		"list": "Danh sách khách hàng",
+		"campaign": "Chiến dịch",
+		"campaigns": "Danh sách chiến dịch",
+		"report": "Báo cáo"
+	},
+	"api": {
+		"get": {
+			"failed": "Lấy dữ liệu {data} không thành công. Hãy thử lại!"
+		},
+		"post": {
+			"failed": "Gửi dữ liệu {data} thất bại. Hãy thử lại!"
+		},
+		"update": {
+			"failed": "Cập nhật dữ liệu {data} thất bại. Hãy thử lại!",
+			"success": "Cập nhật dữ liệu {data} thành công!"
+		},
+		"create": {
+			"failed": "Tạo dữ liệu {data} thất bại. Hãy thử lại!",
+			"success": "Tạo dữ liệu {data} thành công!"
+		},
+		"delete": {
+			"failed": "Xóa dữ liệu {data} thất bại. Hãy thử lại!",
+			"success": "Xóa dữ liệu {data} thành công!"
+		},
+		"upload": {
+			"failed": "Tải File dữ liệu {data} thất bại. hãy thử lại!",
+			"success": "Tải File dữ liệu {data} thành công!"
+		},
+		"download": {
+			"failed": "Tải File dữ liệu {data} thất bại. hãy thử lại!",
+			"success": "Tải File dữ liệu {data} thành công!"
+		},
+		"import": {
+			"failed": "Nhập File dữ liệu {data} thất bại. hãy thử lại!",
+			"success": "Nhập File dữ liệu {data} thành công!"
+		},
+		"export": {
+			"failed": "Xuất File dữ liệu {data} thất bại. hãy thử lại!",
+			"success": "Xuất File dữ liệu {data} thành công!"
+		}
+	},
+	"sidebar": {
+		"dashboard": "Dashboard",
+		"operation": "Tác nghiệp",
+		"history": "Lịch sử",
+		"more": "Bổ sung",
+		"customers": "Danh sách khách hàng",
+		"send_manual": "Gửi tin thủ công",
+		"campaigns": "Danh sách chiến dịch",
+		"sending_history": "Lịch sử gửi tin",
+		"user_history": "Lịch sử người dùng",
+		"statistics": "Thống kê báo cáo",
+		"setting": "Cài đặt",
+		"collapse": "Thu gọn",
+		"expand": "Mở rộng",
+		"language": "Ngôn ngữ",
+		"appearance": "Chủ đề",
+		"connection": "Kết nối",
+		"script": "Kịch bản gửi tin",
+		"brand_template": "Thương hiệu & Mẫu tin nhắn"
+	},
+	"profile": {
+		"account_info": "Thông tin tài khoản",
+		"logout": "Đăng xuất"
+	},
+	"input": {
+		"placeholder": "Nhập {data}..."
+	},
+	"keyword": "Từ khóa"
+}
